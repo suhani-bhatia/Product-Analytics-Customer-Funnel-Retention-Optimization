@@ -1,6 +1,3 @@
-# Product-Analytics-Customer-Funnel-Retention-Optimization
-This project analyzes customer behavior data to understand engagement, retention, and monetization patterns. The goal was to identify drop offs in the user journey and generate data driven product recommendations.
-
 # Product Analytics Dashboard: Funnel & Retention Analysis
 
 ## Overview
@@ -41,7 +38,6 @@ Analyzed customer behavior data to identify engagement, retention, and monetizat
 
 ![Funnel](funnel_chart.png)
 
-
 ### Retention
 
 ![Retention](retention_chart.png)
@@ -56,4 +52,3 @@ data.csv         # dataset
 ## Outcome
 
 Demonstrated how data can be used to drive product decisions, identify user behavior patterns, and improve business metrics.
-
