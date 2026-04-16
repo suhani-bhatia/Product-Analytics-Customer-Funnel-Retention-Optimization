@@ -45,11 +45,11 @@ Analyzed customer behavior data to identify engagement, retention, and monetizat
 
 ## Project Structure
 
-analysis.py      # data processing
+analysis.py       (data processing)
 
-results.py       # metrics + visualization
+results.py        (metrics + visualization)
 
-data.csv         # dataset
+data.csv          (dataset)
 
 ## Outcome
 
